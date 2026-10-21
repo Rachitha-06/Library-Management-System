@@ -1,0 +1,43 @@
+# Compiled executables
+*.exe
+*.out
+
+# Object files
+*.o
+*.obj
+
+# Generated library data
+data/*.txt
+data/*.dat
+data/*.csv
+data/*.bak
+data/*.tmp
+
+# Build directories
+build/
+dist/
+bin/
+obj/
+
+# Debugging files
+*.pdb
+*.ilk
+*.stackdump
+core
+core.*
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Operating system files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs and temporary files
+*.log
+*.temp
